@@ -102,6 +102,31 @@ IDE:
 
 
 
+## Contributors
+
+This project is a group project. We would like to acknowledge the following individuals for their contributions to this project:
+
+- A.M.T.S.Adhikary 
+    - Designed & developed the user interface
+    - Assisted with project management and coordination
+
+- Gnei Nazreen Smahon 
+    - Designed the user interface
+    - Created the documentation and user guide
+
+- U.K.R.Malaka 
+    - Optimized performance and conducted testing
+    - Assisted with project management and coordination
+
+- U.K.Supun Randika 
+    - Designed & developed the user interface
+    - Assisted with database integration
+
+Special thanks to our project supervisor Mr.Geeth Hanarasinghe ( Associate Vice President – Global PMO at Fortude ) and to all the contributors for their hard work and dedication to this project. Your contributions have been invaluable!
+
+
+
+
 
 
 
